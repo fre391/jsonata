@@ -53,4 +53,3 @@ jsonata.set(data: data);
 var json = await jsonata.query(jql);
 ```
 
-

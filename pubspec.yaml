@@ -1,7 +1,7 @@
 name: jsonata
 description: "JSONata plugin for Flutter"
-version: 0.0.7
-homepage: https://github.com/fre391
+version: 0.1.0
+homepage: https://github.com/fre391/jsonata
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
@@ -19,6 +19,8 @@ dev_dependencies:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
+
+
 
 # The following section is specific to Flutter packages.
 flutter:
